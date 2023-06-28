@@ -4,6 +4,7 @@ from matplotlib import animation
 from matplotlib import patches
 
 
+
 def show_reference_image(images, points=[], roi_size=None, bit_depth=12):
     """
     Display the reference image of a MRAW video sequence. together with
